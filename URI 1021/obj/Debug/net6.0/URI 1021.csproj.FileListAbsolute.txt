@@ -12,3 +12,4 @@ C:\Users\marce\source\repos\URI Judge\URI 1021\obj\Debug\net6.0\URI 1021.dll
 C:\Users\marce\source\repos\URI Judge\URI 1021\obj\Debug\net6.0\ref\URI 1021.dll
 C:\Users\marce\source\repos\URI Judge\URI 1021\obj\Debug\net6.0\URI 1021.pdb
 C:\Users\marce\source\repos\URI Judge\URI 1021\obj\Debug\net6.0\URI 1021.genruntimeconfig.cache
+C:\Users\marce\source\repos\URI Judge\URI 1021\obj\Debug\net6.0\URI 1021.csproj.AssemblyReference.cache
