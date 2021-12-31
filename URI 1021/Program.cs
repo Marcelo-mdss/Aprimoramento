@@ -77,11 +77,6 @@ namespace URI_1021
             int Coin_01 = (int)result;
             Console.WriteLine(Coin_01 + " moeda(s) de R$ 0.01");
             rest = rest % 0.01f;
-            
-
-
-
-
         }
     }
 }
