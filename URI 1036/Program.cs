@@ -26,11 +26,5 @@ if (Delta <= 0)
 double X1 = (- B + (Math.Sqrt(Delta))) / (2 * A);
 double X2 = (- B - (Math.Sqrt(Delta))) / (2 * A);
 
-
-
 Console.WriteLine("R1 = " + X1.ToString("F5", CultureInfo.InvariantCulture));
 Console.WriteLine("R2 = " + X2.ToString("F5", CultureInfo.InvariantCulture));
-
-
-
-
